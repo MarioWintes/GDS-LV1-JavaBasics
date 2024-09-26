@@ -17,6 +17,9 @@ public class VariablesDemo {
         // Deklarieren
         int c;
         int e,f,g; // geht auch mehrfach
+
+        int j = 40 , l = 40; // mehr Vars deklarieren und initialisieren
+
         String name;
 
         // Init
